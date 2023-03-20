@@ -37,7 +37,7 @@ cout<<"You have said: "<<a1<<endl;
 if (a1==a)
 {
 cout<<"Your answer is correct!";
-score=score+1;
+score += 1;
 }
 else
 {
@@ -47,7 +47,7 @@ cout<<"You have said: "<<a2<<endl;
 if (a2==a)
 {
 	cout<<"Your answer is correct!";
-	score=score+0.5;
+	score += 0.5;
 }
 else
 {
@@ -66,7 +66,7 @@ cout<<"You have said: "<<b1<<endl;
 if (b1==b)
 {
 	cout<<"Your answer is correct!";
-	score=score+1;
+	score += 1;
 }
 else
 {
@@ -76,7 +76,7 @@ cout<<"You have said: "<<b2<<endl;
 if (b2==b)
 {
 	cout<<"Your answer is correct!";
-	score=score+0.5;
+	score += 0.5;
 }
 else
 {
@@ -95,7 +95,7 @@ cout<<"You have said: "<<c1<<endl;
 if (c1==c)
 {
 	cout<<"Your answer is correct!";
-	score=score+1;
+	score += 1;
 }
 else
 {
@@ -105,7 +105,7 @@ cout<<"You have said: "<<c2<<endl;
 if (c2==c)
 {
 	cout<<"Your answer is correct!";
-	score=score+0.5;
+	score += 0.5;
 }
 else
 {
@@ -124,7 +124,7 @@ cout<<"You have said: "<<d1<<endl;
 if (d1==d)
 {
 	cout<<"Your answer is correct!";
-	score=score+1;
+	score += 1;
 }
 else
 {
@@ -134,7 +134,7 @@ cout<<"You have said: "<<d2<<endl;
 if (d2==d)
 {
 	cout<<"Your answer is correct!";
-	score=score+0.5;
+	score += 0.5;
 }
 else
 {
@@ -153,7 +153,7 @@ cout<<"You have said: "<<e1<<endl;
 if (e1==e)
 {
 	cout<<"Your answer is correct!";
-	score=score+1;
+	score += 1;
 }
 else
 {
@@ -163,7 +163,7 @@ cout<<"You have said: "<<e2<<endl;
 if (e2==e)
 {
 	cout<<"Your answer is correct!";
-	score=score+0.5;
+	score += 0.5;
 }
 else
 {
