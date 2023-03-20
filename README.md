@@ -11,9 +11,6 @@ cpp <br><br>
 ### What made me create this
 A project for college semester exams <br><br>
 
-### Is it complete?
-Some work are remaining and I'm learning cpp to develop this game more <br>and as I learn, I'll update it here too <br><br>
-
 ### What more do you want to do with this
 <li>Make the string case insensitive</li>
 <li>Read space in strings</li>
