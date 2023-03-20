@@ -1,5 +1,6 @@
 <div style="display: flex; justify-content: center;">
 <img src="https://user-images.githubusercontent.com/116259393/226260123-5c789100-613c-4b55-b00d-da020550b04c.gif">
+</div>
 
 # Title
 Quiz Game
