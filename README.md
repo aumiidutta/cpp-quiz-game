@@ -1,4 +1,4 @@
-<img src="![quiz](https://user-images.githubusercontent.com/116259393/226258549-efeb8a63-891d-48de-9add-551cf7f6ffab.gif)">
+<img src="https://user-images.githubusercontent.com/116259393/226258549-efeb8a63-891d-48de-9add-551cf7f6ffab.gif">
 
 # Title
 Quiz Game
