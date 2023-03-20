@@ -16,4 +16,5 @@ Some work are remaining and I'm learning cpp to develop this game more <br>and a
 
 ### What more do you want to do with this
 <li>Make the string case insensitive</li>
-<li>read space in strings</li>
+<li>Read space in strings</li>
+<li>Have more than one word in string input</li>
