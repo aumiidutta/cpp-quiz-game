@@ -10,8 +10,9 @@ string a1, a2, b1, b2, c1, c2, d1, d2, e1, e2;
 string a="roskosmos";
 string b="apate";
 string c="pickles";
-string d="kesarbaikerkar";
-string e="maunakea";
+string d="kesarbai kerkar";
+string e="mt. mauna kea";
+//getline(cin, string_name);
 
 
 cout<<"Welcome to 'Are you feeling lucky'!"<<endl;
@@ -22,7 +23,7 @@ cout<<endl;
 cout<<endl;
 
 
-cout<<"There will be five questions and answers should be only in lowercase and no space between two words."<<endl;
+cout<<"There will be five questions and answers should be only in lowercase."<<endl;
 cout<<"Your score will be displayed at the end."<<endl;
 cout<<endl;
 cout<<endl;
@@ -31,7 +32,7 @@ cout<<endl;
 cout<<"                  1. SCIENCE                  "<<endl;
 cout<<"Name the russian space agency."<<endl;
 cout<<"Attempt 1:"<<endl;
-cin>>a1;
+getline(cin, a1);
 cout<<"You have said: "<<a1<<endl;
 if (a1==a)
 {
@@ -41,7 +42,7 @@ score=score+1;
 else
 {
 cout<<"You have another attempt to answer correctly!"<<endl;
-cin>>a2;
+getline(cin, a2);
 cout<<"You have said: "<<a2<<endl;
 if (a2==a)
 {
@@ -60,7 +61,7 @@ cout<<endl;
 cout<<"                  2. MYTHOLOGY                  "<<endl;
 cout<<"Who is the goddess of betrayal?"<<endl;
 cout<<"Attempt 1:"<<endl;
-cin>>b1;
+getline(cin, b1);
 cout<<"You have said: "<<b1<<endl;
 if (b1==b)
 {
@@ -70,7 +71,7 @@ if (b1==b)
 else
 {
 cout<<"You have another attempt to answer correctly!"<<endl;
-cin>>b2;
+getline(cin, b2);
 cout<<"You have said: "<<b2<<endl;
 if (b2==b)
 {
@@ -89,7 +90,7 @@ cout<<endl;
 cout<<"                  3. SPORTS                  "<<endl;
 cout<<"Name the dog who found the stolen FIFA world cup."<<endl;
 cout<<"Attempt 1:"<<endl;
-cin>>c1;
+getline(cin, c1);
 cout<<"You have said: "<<c1<<endl;
 if (c1==c)
 {
@@ -99,7 +100,7 @@ if (c1==c)
 else
 {
 cout<<"You have another attempt to answer correctly!"<<endl;
-cin>>c2;
+getline(cin, c2);
 cout<<"You have said: "<<c2<<endl;
 if (c2==c)
 {
@@ -118,7 +119,7 @@ cout<<endl;
 cout<<"                  4. MUSIC                  "<<endl;
 cout<<"Who is the only Indian to have her song echo in interstellar space?"<<endl;
 cout<<"Attempt 1:"<<endl;
-cin>>d1;
+getline(cin, d1);
 cout<<"You have said: "<<d1<<endl;
 if (d1==d)
 {
@@ -128,7 +129,7 @@ if (d1==d)
 else
 {
 cout<<"You have another attempt to answer correctly!"<<endl;
-cin>>d2;
+getline(cin, d2);
 cout<<"You have said: "<<d2<<endl;
 if (d2==d)
 {
@@ -147,7 +148,7 @@ cout<<endl;
 cout<<"                  5. GEOGRAPHY                  "<<endl;
 cout<<"Which mountain is taller than mount everest when height is measured from base to peak?"<<endl;
 cout<<"Attempt 1:"<<endl;
-cin>>e1;
+getline(cin, e1);
 cout<<"You have said: "<<e1<<endl;
 if (e1==e)
 {
@@ -157,7 +158,7 @@ if (e1==e)
 else
 {
 cout<<"You have another attempt to answer correctly!"<<endl;
-cin>>e2;
+getline(cin, e2);
 cout<<"You have said: "<<e2<<endl;
 if (e2==e)
 {
