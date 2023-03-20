@@ -12,12 +12,11 @@ string b="apate";
 string c="pickles";
 string d="kesarbai kerkar";
 string e="mt. mauna kea";
-//getline(cin, string_name);
 
 
 cout<<"Welcome to 'Are you feeling lucky'!"<<endl;
 cout<<"Enter your name: ";
-cin>>name;
+getline(cin, name);
 cout<<"Ok "<<name<<", let's start with the game."<<endl;
 cout<<endl;
 cout<<endl;
