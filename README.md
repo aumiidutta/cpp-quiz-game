@@ -17,5 +17,3 @@ A project for college semester exams <br><br>
 
 ### What more do I want to do with this
 <li>Make the string case insensitive</li>
-<li>Read space in strings</li>
-<li>Have more than one word in string input</li>
