@@ -1,8 +1,9 @@
+<div style="text-align:center;">
+<img src="https://user-images.githubusercontent.com/116259393/226260123-5c789100-613c-4b55-b00d-da020550b04c.gif">
+</div>
+
 # Title
 Quiz Game
-
-<center><img src="https://user-images.githubusercontent.com/116259393/226259000-0f579318-3d66-4750-ab27-3c2a3f75b0bd.jpg"></center>
-
 
 ### Description
 It is a quiz game developed by me in cpp in the late 2022. <br>
