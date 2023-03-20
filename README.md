@@ -15,5 +15,5 @@ A project for college semester exams <br><br>
 Some work are remaining and I'm learning cpp to develop this game more <br>and as I learn, I'll update it here too <br><br>
 
 ### What more do you want to do with this
-<li><ul>Make the string case insensitive</ul></li>
-<li><ul> read space in strings</ul></li>
+<li>Make the string case insensitive</li>
+<li>read space in strings</li>
