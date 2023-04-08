@@ -6,7 +6,7 @@
 Quiz Game
 
 ### Description
-It is a quiz game developed by me in cpp in the late 2022. <br>
+It is a quiz game developed by me in cpp in January 2023. <br>
 As you play this game, you'll get a score and remarks according to your score. <br><br>
 
 ### Language used
